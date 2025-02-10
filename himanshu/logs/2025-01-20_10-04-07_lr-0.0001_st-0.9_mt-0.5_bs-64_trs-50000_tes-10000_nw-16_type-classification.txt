@@ -1,0 +1,4 @@
+Average loss for epoch 1: 1.1254531808216552
+Test accuracy after 1 epochs: 0.7543
+Average loss for epoch 2: 0.8369398790475963
+Test accuracy after 2 epochs: 0.7668
