@@ -1,0 +1,20 @@
+Test Accuracy: 70.85%
+modified 10.1 GMac
+base 16.87 GMac mlp 0.55(40% flops drop)
+
+Test Accuracy: 83.45%(5.43%)
+modified 13.7 GMac
+base 16.87 GMac mlp 0.75(20% flops drop)
+
+Base 88.88%
+
+
+
+Total FLOPs: 9745.84 GFLOPs
+Accuracy: 1.09%
+
+Total FLOPs: 351262.74 GFLOPs
+Accuracy: 88.88%
+
+Total FLOPs: 288345.88 GFLOPs
+Accuracy: 76.94%

@@ -1,0 +1,286 @@
+Skip ratio: tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
+Skip %: 0.00%
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 2:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 3:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 4:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 5:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 6:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 7:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 8:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 9:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 10:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 11:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Overall accuracy of MLP: 100.00%
+Test accuracy at starting: (0.8062, tensor(1.))
+Skip ratio: tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
+Skip %: 0.00%
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 2:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 3:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 4:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 5:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 6:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 7:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 8:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 9:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 10:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 11:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Overall accuracy of MLP: 100.00%
+Test accuracy after 1 epochs: 82.45%
+
+Skip ratio: tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
+Skip %: 0.00%
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 2:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 3:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 4:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 5:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 6:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 7:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 8:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 9:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 10:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 11:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Overall accuracy of MLP: 100.00%
+Test accuracy after 2 epochs: 82.35%
+
+Skip ratio: tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
+Skip %: 0.00%
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 2:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 3:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 4:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 5:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 6:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 7:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 8:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 9:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 10:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 11:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Overall accuracy of MLP: 100.00%
+Test accuracy after 3 epochs: 82.30%
+
+Skip ratio: tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
+Skip %: 0.00%
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 2:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 3:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 4:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 5:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 6:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 7:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 8:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 9:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 10:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 11:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Overall accuracy of MLP: 100.00%
+Test accuracy after 4 epochs: 81.99%
+
+Skip ratio: tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
+Skip %: 0.00%
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 2:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 3:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 4:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 5:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 6:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 7:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 8:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 9:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 10:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 11:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Overall accuracy of MLP: 100.00%
+Test accuracy after 5 epochs: 81.78%
+
+Best accuracy: 82.448%
+
+Skip ratio: tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
+Skip %: 0.00%
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 2:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 3:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 4:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 5:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 6:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 7:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 8:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 9:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 10:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Correct prediction ratio for layer 11:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+
+Overall accuracy of MLP: 100.00%

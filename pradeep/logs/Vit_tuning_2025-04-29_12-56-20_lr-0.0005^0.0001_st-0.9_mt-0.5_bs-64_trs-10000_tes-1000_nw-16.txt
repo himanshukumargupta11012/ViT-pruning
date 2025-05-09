@@ -1,0 +1,90 @@
+Skip ratio: tensor([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan])
+and nan
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 2:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 3:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 4:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 5:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 6:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 7:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 8:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 9:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 10:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 11:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Overall accuracy of MLP: 0.0
+Average loss for epoch 1: 0.4578182847256873
+Test accuracy after 1 epochs: 0.789
+
+Skip ratio: tensor([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan])
+and nan
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 2:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 3:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 4:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 5:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 6:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 7:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 8:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 9:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 10:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 11:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Overall accuracy of MLP: 0.0
+Average loss for epoch 2: 0.14782050460766835
+Test accuracy after 2 epochs: 0.793
+
+Skip ratio: tensor([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan])
+and nan
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 2:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 3:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 4:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 5:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 6:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 7:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 8:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 9:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 10:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Correct prediction ratio for layer 11:
+[[0.0, 0.0], [0.0, 0.0]]	nan
+Overall accuracy of MLP: 0.0
+Average loss for epoch 3: 0.07706998703870804
+Test accuracy after 3 epochs: 0.805
+

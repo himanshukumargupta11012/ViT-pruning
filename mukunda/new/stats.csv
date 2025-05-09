@@ -1,0 +1,2 @@
+Model, Accuracy, MLP Accuracy
+2025-04-24_15-31-00_vit_config.json_both_model_utils_loss-cosine^classification_lr-0.001^1e-05_st-0.9_mt-0.5_at-0_bs-64_trs-10000_tes-1000_nw-16, 0.004, 1.0

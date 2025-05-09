@@ -1,0 +1,5 @@
+torch==2.0.1           # For PyTorch, specifying a compatible version
+transformers==4.30.0   # For Hugging Face's transformers library
+tqdm==4.66.1           # For progress bars
+torchvision==0.15.2    # For image processing and computer vision tools
+ptflops==0.7           # For model complexity analysis (for FLOPs calculation)

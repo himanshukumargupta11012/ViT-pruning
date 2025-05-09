@@ -1,0 +1,8 @@
+.vscode
+data
+__pycache__
+# *.png
+models
+imagenet-val
+myenv
+*.pth

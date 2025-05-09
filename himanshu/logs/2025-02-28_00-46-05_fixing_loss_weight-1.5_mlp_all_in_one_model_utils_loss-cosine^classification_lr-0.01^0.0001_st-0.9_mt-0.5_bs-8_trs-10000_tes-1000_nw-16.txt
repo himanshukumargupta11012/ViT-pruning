@@ -1,0 +1,59 @@
+Skip ratio: tensor([0.4607, 0.4935, 0.5071, 0.4935, 0.5067, 0.5170, 0.5067, 0.4873, 0.5074,
+        0.5014, 0.4973, 0.4982])
+Skip %: 49.81%
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.4607, 0.5393]]	53.93%
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.4935, 0.5065]]	50.65%
+Correct prediction ratio for layer 2:
+[[0.0001, 0.0001], [0.507, 0.4928]]	49.29%
+Correct prediction ratio for layer 3:
+[[0.0014, 0.002], [0.4921, 0.5045]]	50.59%
+Correct prediction ratio for layer 4:
+[[0.0073, 0.0071], [0.4994, 0.4862]]	49.35%
+Correct prediction ratio for layer 5:
+[[0.0108, 0.0094], [0.5062, 0.4736]]	48.44%
+Correct prediction ratio for layer 6:
+[[0.0445, 0.0445], [0.4622, 0.4488]]	49.33%
+Correct prediction ratio for layer 7:
+[[0.1494, 0.1573], [0.3379, 0.3554]]	50.48%
+Correct prediction ratio for layer 8:
+[[0.1515, 0.1419], [0.356, 0.3506]]	50.21%
+Correct prediction ratio for layer 9:
+[[0.2346, 0.2244], [0.2667, 0.2743]]	50.89%
+Correct prediction ratio for layer 10:
+[[0.0589, 0.0612], [0.4385, 0.4415]]	50.04%
+Correct prediction ratio for layer 11:
+[[0.0216, 0.0195], [0.4765, 0.4824]]	50.40%
+Overall accuracy of MLP: 50.30%
+Skip ratio: tensor([0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0357, 0.2908, 0.3163,
+        0.4981, 0.0051, 0.0000])
+Skip %: 9.55%
+Correct prediction ratio for layer 0:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+Correct prediction ratio for layer 1:
+[[0.0, 0.0], [0.0, 1.0]]	100.00%
+Correct prediction ratio for layer 2:
+[[0.0, 0.0001], [0.0, 0.9999]]	99.99%
+Correct prediction ratio for layer 3:
+[[0.0, 0.0674], [0.0, 0.9326]]	93.26%
+Correct prediction ratio for layer 4:
+[[0.0, 0.1361], [0.0, 0.8639]]	86.39%
+Correct prediction ratio for layer 5:
+[[0.0, 0.2903], [0.0, 0.7097]]	70.97%
+Correct prediction ratio for layer 6:
+[[0.0239, 0.598], [0.0118, 0.3663]]	39.02%
+Correct prediction ratio for layer 7:
+[[0.2327, 0.5512], [0.0581, 0.158]]	39.07%
+Correct prediction ratio for layer 8:
+[[0.2072, 0.4515], [0.1092, 0.2322]]	43.94%
+Correct prediction ratio for layer 9:
+[[0.2804, 0.3134], [0.2177, 0.1885]]	46.89%
+Correct prediction ratio for layer 10:
+[[0.0012, 0.115], [0.0039, 0.8799]]	88.11%
+Correct prediction ratio for layer 11:
+[[0.0, 0.0836], [0.0, 0.9164]]	91.64%
+Overall accuracy of MLP: 74.94%
+Average loss for epoch 1: 8.199434582138062
+Test accuracy after 1 epochs: 87.40%
+
